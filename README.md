@@ -1,4 +1,5 @@
 # connected.AF
+![](http://i.imgur.com/7nvKWyy.gif)
 
 ## usage
 ```sh
