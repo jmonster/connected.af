@@ -22,7 +22,6 @@
     "block-scoped-var": "error",
     "consistent-return": "error",
     "curly": "error",
-    "dot-location": ["error", "object"],
     "eqeqeq": "warn",
     "global-require": "error"
   }
