@@ -25,6 +25,7 @@ exports.isOn = function isOn(code) {
 }
 
 exports.urlForLocation = function urlForLocation(location) {
+
   const state = location.state;
   const town = location.town;
   const zip = location.zip;
