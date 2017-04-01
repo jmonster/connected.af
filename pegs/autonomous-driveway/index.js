@@ -6,7 +6,7 @@ exports.isOn = function isOn(code) {
   switch(code) {
     case 5: // mixed rain and snow
     case 6: // mixed rain and sleet
-    case 7: // mixed snow and slee
+    case 7: // mixed snow and sleet
     case 8: // freezing drizzle
     case 10: // freezing rain
     case 13: // snow flurries
