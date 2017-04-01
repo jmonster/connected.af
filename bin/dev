@@ -1,1 +1,1 @@
-./node_modules/.bin/pm2 start ./node_modules/.bin/rejoice --no-daemon --name="pegboard" --watch -- -c ./manifest.js -p ./pegs
+./node_modules/.bin/pm2 start ./node_modules/.bin/rejoice --no-daemon --name="connected.af" --watch -- -c ./manifest.js -p ./pegs
